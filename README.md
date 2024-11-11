@@ -15,7 +15,7 @@
 
 * ***Audio System***: This system enhances immersion with sound effects, background music, and voice acting that reacts to in-game actions.
 
-###Together, these components ensure a rich, engaging, and personalized gaming experience for each player. 
+### Together, these components ensure a rich, engaging, and personalized gaming experience for each player. 
 
 ## Features
 
