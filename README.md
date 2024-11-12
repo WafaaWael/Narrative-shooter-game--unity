@@ -24,7 +24,7 @@
 * ***Fungus Integration***: Seamless incorporation of the Fungus system for interactive storytelling, dialogue, and decision-making.
 
 ## Gameplay 
-***mini-map*** 
+#### ***mini-map*** 
  ![image](https://github.com/user-attachments/assets/fbff603c-9794-4019-9b90-677a8aa91e09)
 
 ***interact***
