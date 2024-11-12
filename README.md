@@ -32,7 +32,7 @@
 
 ***Fungus System***
 ![image](https://github.com/user-attachments/assets/1c20c5e9-a99b-4b5b-9cfb-0d0a7aac1efc)
-***shooing*** 
+***shooting*** 
 ![image](https://github.com/user-attachments/assets/3554b0ca-832f-4ce6-8f5d-320d51cad48f)
 
 
