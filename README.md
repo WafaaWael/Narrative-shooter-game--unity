@@ -33,6 +33,7 @@
 ***Fungus System***
 ![image](https://github.com/user-attachments/assets/1c20c5e9-a99b-4b5b-9cfb-0d0a7aac1efc)
 ***shooing*** 
-![image](https://github.com/user-attachments/assets/44daa34c-6a99-473d-ad4f-26ac8f051f04)
+![image](https://github.com/user-attachments/assets/3554b0ca-832f-4ce6-8f5d-320d51cad48f)
+
 
 
