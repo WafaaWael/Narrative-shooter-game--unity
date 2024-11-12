@@ -23,4 +23,17 @@
 * ***Dynamic Quest System***: A robust quest system that manages and tracks missions, objectives, and rewards based on player progress.
 * ***Fungus Integration***: Seamless incorporation of the Fungus system for interactive storytelling, dialogue, and decision-making.
 
- 
+## Game play 
+mini map 
+ ![image](https://github.com/user-attachments/assets/fbff603c-9794-4019-9b90-677a8aa91e09)
+***Quest System***
+![image](https://github.com/user-attachments/assets/4435e91d-6704-4197-a706-5f19c286dff3)
+***interact***
+![image](https://github.com/user-attachments/assets/21082b04-d9be-4ab1-b5e8-a9f600009afe)
+
+***Fungus System***
+![image](https://github.com/user-attachments/assets/1c20c5e9-a99b-4b5b-9cfb-0d0a7aac1efc)
+shooing 
+![image](https://github.com/user-attachments/assets/44daa34c-6a99-473d-ad4f-26ac8f051f04)
+
+
